@@ -1,13 +1,24 @@
-
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,li,ol{
+    list-style-type: none;
+}
 
 
 
 .left{
     width: 25vw;
-    background-color: brown;
+    padding: 34px;
 }
 .right{
     width: 75vw;
     background-color: cadetblue;
+}
+.home ul li{
+width: 14px;
+display: flex;
+gap: 15px;
 }
