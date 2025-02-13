@@ -6,16 +6,12 @@
 ul,li,ol{
     list-style-type: none;
 }
-
-
-
 .left{
     width: 25vw;
     padding: 34px;
 }
 .right{
     width: 75vw;
-    background-color: cadetblue;
 }
 .home ul li{
 width: 14px;

@@ -9,3 +9,15 @@
 .items-center{
     align-items: center;
 }
+.bg-black{
+    background: black;
+    color: white;
+}
+.bg-gray{
+    background-color: #121212;
+    color: white;
+}
+.rounded{
+    border-radius: 35px;
+}
+
