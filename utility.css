@@ -18,6 +18,11 @@
     color: white;
 }
 .rounded{
-    border-radius: 35px;
+    border-radius: 7px;
 }
-
+.m-1{
+    margin: 4px;
+}
+.p-1{
+    padding: 10px;
+}
